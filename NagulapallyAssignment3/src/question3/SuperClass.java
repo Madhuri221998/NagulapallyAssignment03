@@ -1,0 +1,21 @@
+package question3;
+
+//public class SuperClass {
+	class SuperClass {
+		   SuperClass get() {
+		      System.out.println("SuperClass");
+		      return this;
+		   }
+		}
+		public class SuperClas extends SuperClass {
+		   SuperClas get() {
+		      System.out.println("SubClass");
+		      return this;
+		   }
+		   public static void main(String[] args) {
+		      SuperClass tester = new SuperClas();
+		      tester.get();
+		   }
+		}
+
+//}
