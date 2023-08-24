@@ -33,7 +33,7 @@ import java.sql.SQLException;
 		
 	}
 	 
-	class SubClassTwo extends SuperClass
+	class SucbClassTwo extends SuperClass
 	{
 	    @Override
 	    void methodOfSuperClass()

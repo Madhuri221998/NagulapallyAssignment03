@@ -7,7 +7,7 @@ package question3;
 		      return this;
 		   }
 		}
-		public class SuperClas extends SuperClass {
+		public class SuperClas extend SuperClass {
 		   SuperClas gebt() {
 		      System.out.println("SubClass");
 		      return this;
@@ -19,3 +19,4 @@ package question3;
 		}
 
 //}
+hi madhuri
