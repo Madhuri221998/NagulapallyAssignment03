@@ -8,8 +8,9 @@ package question1;
 		    // with Integer data
 		    GenericsClass<Integer> intObj = new GenericsClass<>(5);
 		    System.out.println("Generic Class returns: " + intObj.getData());
+			//ghf
 
-		    // initialize generic class
+		    // initialize generic classs
 		    // with String data
 		    GenericsClass<String> stringObj = new GenericsClass<>("Java Programming");
 		    System.out.println("Generic Class returns: " + stringObj.getData());

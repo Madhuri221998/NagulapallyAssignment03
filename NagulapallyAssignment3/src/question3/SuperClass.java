@@ -8,7 +8,7 @@ package question3;
 		   }
 		}
 		public class SuperClas extends SuperClass {
-		   SuperClas get() {
+		   SuperClas gebt() {
 		      System.out.println("SubClass");
 		      return this;
 		   }
