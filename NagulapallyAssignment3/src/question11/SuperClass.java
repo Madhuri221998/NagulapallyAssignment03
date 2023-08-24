@@ -10,6 +10,7 @@ import java.sql.SQLException;
 	        System.out.println("Super class method is not throwing any exceptions");
 	    }
 	}
+	}
 	 
 	class SubClass extends SuperClass
 	{
